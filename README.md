@@ -8,7 +8,12 @@ Focused on the intersection of data, risk modeling, and scalable operations.
 - **Domains**: Quantitative Analysis, Actuarial Models, Crypto Operations & AI Systems.
 - **Projects**: [OpenClaw AI](https://github.com/slvbr0), [Digital Garden](https://slvbr0.github.io/garden).
 
-### 📊 GitHub Activity
+### 🗓️ GitHub Calendar
+<p align="left">
+  <img src="https://ghchart.rshah.org/01696f/slvbr0.svg" alt="Salva's GitHub Calendar" width="100%" />
+</p>
+
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=slvbr0&show_icons=true&theme=transparent&hide_border=true&title_color=01696f&icon_color=01696f&text_color=555&count_private=true" alt="Salva Stats" />
 </p>
