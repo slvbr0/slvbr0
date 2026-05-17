@@ -29,7 +29,7 @@ jobs:
             > /tmp/stars.tsv
           # Abort if nothing was returned (API error or genuinely empty list)
           if [ ! -s /tmp/stars.tsv ]; then
-            echo "No starred repositories found or API call failed — skipping README update."
+            echo "No starred repositories found or API call failed — skipping repository list updates."
             exit 1
           fi
 
