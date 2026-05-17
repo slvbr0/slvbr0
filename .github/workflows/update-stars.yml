@@ -57,7 +57,7 @@ jobs:
 
                   entry = f"**[{full_name}](https://github.com/{full_name})**{badges}"
                   summary = description if description else "_No description provided._"
-                  entry += f"  \n  {summary}"
+                  entry += f"<br>\n{summary}"
                   rows.append(entry)
 
           md_list = "\n\n".join(rows)
