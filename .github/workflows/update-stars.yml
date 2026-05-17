@@ -75,11 +75,16 @@ jobs:
 
           with open("README.md", "w") as f:
               f.write(content)
+
+          with open("STARRED_REPOSITORIES.md", "w") as f:
+              f.write("# ⭐ Starred Repositories\n\n")
+              f.write("Auto-generated from `gh api user/starred --paginate`.\n\n")
+              f.write(md_list + "\n")
           PYEOF
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md STARRED_REPOSITORIES.md
           git diff --cached --quiet || (git commit -m "chore: update starred repositories list" && git push)
