@@ -1,0 +1,55 @@
+name: Update Starred Repositories
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch starred repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api user/starred --paginate \
+            | jq -r '.[].full_name' \
+            | awk '{print "- [" $0 "](https://github.com/" $0 ")"}' \
+            > /tmp/stars.md
+
+      - name: Update README
+        run: |
+          python3 - <<'PYEOF'
+          import re
+
+          with open("/tmp/stars.md") as f:
+              md_list = f.read().strip()
+
+          with open("README.md") as f:
+              content = f.read()
+
+          new_block = "<!-- STARS_START -->\n" + md_list + "\n<!-- STARS_END -->"
+          content = re.sub(
+              r"<!-- STARS_START -->.*?<!-- STARS_END -->",
+              new_block,
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w") as f:
+              f.write(content)
+          PYEOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update starred repositories list"
+          git push
