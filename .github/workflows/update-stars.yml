@@ -19,11 +19,16 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh api user/starred --paginate \
-            | jq -r '.[].full_name' \
-            | awk '{print "- [" $0 "](https://github.com/" $0 ")"}' \
-            > /tmp/stars.md
+            | jq -r '.[] | [
+                .full_name,
+                (.description // ""),
+                (.language // ""),
+                (.stargazers_count | tostring),
+                ((.topics // []) | join(","))
+              ] | @tsv' \
+            > /tmp/stars.tsv
           # Abort if nothing was returned (API error or genuinely empty list)
-          if [ ! -s /tmp/stars.md ]; then
+          if [ ! -s /tmp/stars.tsv ]; then
             echo "No starred repositories found or API call failed — skipping README update."
             exit 1
           fi
@@ -33,8 +38,29 @@ jobs:
           python3 - <<'PYEOF'
           import re
 
-          with open("/tmp/stars.md") as f:
-              md_list = f.read().strip()
+          rows = []
+          with open("/tmp/stars.tsv") as f:
+              for line in f:
+                  parts = line.rstrip("\n").split("\t")
+                  # pad to 5 fields in case trailing empty fields were stripped
+                  parts += [""] * (5 - len(parts))
+                  full_name, description, language, stars, topics_raw = parts[:5]
+                  topics = [t for t in topics_raw.split(",") if t]
+
+                  badges = ""
+                  if language:
+                      badges += f" `{language}`"
+                  if stars:
+                      badges += f" ⭐ {stars}"
+                  if topics:
+                      badges += " · " + " ".join(f"`{t}`" for t in topics)
+
+                  entry = f"**[{full_name}](https://github.com/{full_name})**{badges}"
+                  if description:
+                      entry += f"  \n  {description}"
+                  rows.append(entry)
+
+          md_list = "\n\n".join(rows)
 
           with open("README.md") as f:
               content = f.read()
