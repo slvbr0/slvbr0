@@ -22,6 +22,11 @@ jobs:
             | jq -r '.[].full_name' \
             | awk '{print "- [" $0 "](https://github.com/" $0 ")"}' \
             > /tmp/stars.md
+          # Abort if nothing was returned (API error or genuinely empty list)
+          if [ ! -s /tmp/stars.md ]; then
+            echo "No starred repositories found or API call failed — skipping README update."
+            exit 1
+          fi
 
       - name: Update README
         run: |
@@ -51,5 +56,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update starred repositories list"
-          git push
+          git diff --cached --quiet || git commit -m "chore: update starred repositories list" && git push || true
