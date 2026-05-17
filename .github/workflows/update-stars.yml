@@ -56,8 +56,8 @@ jobs:
                       badges += " · " + " ".join(f"`{t}`" for t in topics)
 
                   entry = f"**[{full_name}](https://github.com/{full_name})**{badges}"
-                  if description:
-                      entry += f"  \n  {description}"
+                  summary = description if description else "_No description provided._"
+                  entry += f"  \n  {summary}"
                   rows.append(entry)
 
           md_list = "\n\n".join(rows)
