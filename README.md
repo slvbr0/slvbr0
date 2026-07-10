@@ -37,7 +37,14 @@ More of what I'm building lives at [slvbr0.github.io](https://slvbr0.github.io) 
 - **Phemex** (Aug–Dec 2025): built Python-scripted outreach automation + AI-assisted lead scoring; engaged 12,000+ influencers in 3 months via enrichment, dedup, segmentation. Supported partnership activations contributing to ~$150M monthly volume.
 - **Pionex** (Apr–Sep 2024): delivered $40–45M monthly volume (peak ~$50M) scaling KOL/affiliate programs across Europe, Spain, LATAM. Built and maintained a 50,000+ KOL database; secured 150+ partnerships.
 - **BingX** (Jan–Mar 2024): $35M+ volume in period (peak ~$50M). Maintained a 10M+ row dataset for prioritization/ROI; automated CRM workflows in Python/SQL.
-- Parallel community leadership: Head of Community & Growth at Tuned (algo-trading platform, acq. by SageMaster) and Community & Social Media Lead at 3Commas — multi-channel Discord/Telegram/X ops, KOL/affiliate strategy, crisis comms.
+
+</details>
+
+<details>
+<summary><b>📣 Head of Community & Growth / Social Media Lead</b> · Tuned, 3Commas · Jun 2022 – Jul 2025 · <i>multi-channel community & KOL operations</i></summary>
+
+- **Tuned (Aug 2024 – Jul 2025)**: Owned community-driven acquisition-to-retention strategy and partner programs for an algo-trading platform acquired by SageMaster. Led KOL/partner strategy across Discord, Telegram, and X; designed data-driven growth experiments and converted results into actionable product recommendations.
+- **3Commas (Jun 2022 – Aug 2024)**: Owned community operations and social media strategy for an algorithmic trading platform; managed KOL/partner relationships and affiliate initiatives. Handled moderation, escalations, and crisis communications while building structured reporting to guide resource allocation.
 
 </details>
 
