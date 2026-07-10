@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/header-banner.png" width="100%" alt="progress, not perfection" />
-
-<img src="assets/profile-astronaut.png" width="180" alt="Salva Adam" />
+<img src="assets/header.png" width="100%" alt="progress, not perfection — Salva Adam" />
 
 ### Salva Adam
 
