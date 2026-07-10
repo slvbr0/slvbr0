@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" width="100%" alt="progress, not perfection — Salva Adam" />
+<img src="assets/avatar.png" width="190" alt="Salva Adam" />
 
 ### Salva Adam
 
@@ -31,10 +31,8 @@ More of what I'm building lives at [slvbr0.github.io](https://slvbr0.github.io) 
 
 ### // experience
 
-**Business Development Manager — Crypto Exchanges** · Phemex, Pionex, BingX · Jan 2024 – Dec 2025 · sustained $150M+ monthly volume, 12,000+ influencers engaged
-
 <details>
-<summary>more</summary>
+<summary><b>🪙 Business Development Manager — Crypto Exchanges</b> · Phemex / Pionex / BingX · 2024–2025 · <i>$150M+ monthly volume, 12k+ influencers</i></summary>
 
 - **Phemex** (Aug–Dec 2025): built Python-scripted outreach automation + AI-assisted lead scoring; engaged 12,000+ influencers in 3 months via enrichment, dedup, segmentation. Supported partnership activations contributing to ~$150M monthly volume.
 - **Pionex** (Apr–Sep 2024): delivered $40–45M monthly volume (peak ~$50M) scaling KOL/affiliate programs across Europe, Spain, LATAM. Built and maintained a 50,000+ KOL database; secured 150+ partnerships.
@@ -43,10 +41,8 @@ More of what I'm building lives at [slvbr0.github.io](https://slvbr0.github.io) 
 
 </details>
 
-**Algorithmic Trader & Data Scientist** · KuCoin Exchange · Feb 2021 – Jul 2025 · top 1.5% platform performance (2021)
-
 <details>
-<summary>more</summary>
+<summary><b>📈 Algorithmic Trader & Data Scientist</b> · KuCoin Exchange · 2021–2025 · <i>top 1.5% platform performance (2021)</i></summary>
 
 - Top 1.5% platform performance (KuCoin, 2021): multi-strategy portfolio across spot, margin, and futures in leveraged crypto markets, drawdown-controlled with Kelly-variant position sizing.
 - Built a modular Python research framework — event-driven backtesting, realistic slippage/commission modeling, Kelly-variant sizing, ML-based regime detection — formalised as an MSc thesis (8.7/10, UAX).
@@ -55,10 +51,8 @@ More of what I'm building lives at [slvbr0.github.io](https://slvbr0.github.io) 
 
 </details>
 
-**Technical Department Lead** · Ajuntament de Tavernes de la Valldigna · Jul 2024 – Oct 2025 · 5+ concurrent public works projects
-
 <details>
-<summary>more</summary>
+<summary><b>🏗️ Technical Department Lead</b> · Ajuntament de Tavernes de la Valldigna · 2024–2025 · <i>5+ concurrent public works projects</i></summary>
 
 - Led the municipal technical department; oversaw all public works — water network renewals, sanitation upgrades, coastal protection, urban renovations.
 - Managed 5+ concurrent projects across the full lifecycle: planning, tendering, contractor coordination, site inspection, measurement verification, public procurement compliance.
@@ -67,16 +61,16 @@ More of what I'm building lives at [slvbr0.github.io](https://slvbr0.github.io) 
 
 </details>
 
-**Vocational Education Teacher — AI, Big Data & MLOps** · IES Serra Perenxisa (GVA) · Sep 2025 – Present · full ML-lifecycle curriculum
-
 <details>
-<summary>more</summary>
+<summary><b>🧑‍🏫 Vocational Education Teacher — AI, Big Data & MLOps</b> · IES Serra Perenxisa (GVA) · 2025–Present · <i>full ML-lifecycle curriculum</i></summary>
 
 - Curriculum covers the full ML lifecycle: ETL, training (TensorFlow), experiment tracking (MLflow), deployment (Docker, CI/CD), reproducible research and statistical rigor.
 - Also taught maths and physics (MEd Mathematics & Physics Education, UCAM) — explaining things turned out to be the fastest way to find out if you actually understand them.
 - Background: MSc Civil Engineering (ICCP, UPV, 10/10 thesis) and MSc Big Data & Analytics (UAX, 8.7/10) underpin the technical depth of the courses.
 
 </details>
+
+<i>Full detail on request — CV available via LinkedIn.</i>
 
 ---
 
