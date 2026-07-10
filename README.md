@@ -1,4 +1,4 @@
-# Salva Adam — Salva Boro
+# Salva Adam
 
 Civil engineer (MSc) who got bored designing infrastructure and started building the software kind instead. Now I split time between data/AI systems, teaching, and betting on my own probability models.
 
