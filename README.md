@@ -32,9 +32,9 @@ More of what I'm building lives at [slvbr0.github.io](https://slvbr0.github.io) 
 ### // experience
 
 <details>
-<summary><b>🪙 Business Development Manager — Crypto Exchanges</b> · Phemex / Pionex / BingX · 2024–2025 · <i>$150M+ monthly volume, 12k+ influencers</i></summary>
+<summary><b>🪙 Business Development Manager — Crypto Exchanges</b> · Phemex / Pionex / BingX · 2024–2025 · <i>up to $150M monthly volume · automated KOL pipeline, 12k+ contacted</i></summary>
 
-- **Phemex** (Aug–Dec 2025): built Python-scripted outreach automation + AI-assisted lead scoring; engaged 12,000+ influencers in 3 months via enrichment, dedup, segmentation. Supported partnership activations contributing to ~$150M monthly volume.
+- **Phemex** (Aug–Dec 2025): built a fully automated KOL pipeline — scripted discovery across social platforms, enrichment/dedup, automated mass outreach — contacting 12,000+ influencers in 3 months; supported partnership activations contributing to ~$150M monthly volume.
 - **Pionex** (Apr–Sep 2024): delivered $40–45M monthly volume (peak ~$50M) scaling KOL/affiliate programs across Europe, Spain, LATAM. Built and maintained a 50,000+ KOL database; secured 150+ partnerships.
 - **BingX** (Jan–Mar 2024): $35M+ volume in period (peak ~$50M). Maintained a 10M+ row dataset for prioritization/ROI; automated CRM workflows in Python/SQL.
 
