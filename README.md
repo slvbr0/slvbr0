@@ -17,15 +17,23 @@ Now splitting time between AI systems, teaching, and betting on my own probabili
 
 ---
 
-### // what i build
+### // projects
 
-🌌 **Discovery radar** — a personal signal-aggregation feed that pulls and weights activity across multiple sources (social signals, subreddit subscriptions) and groups it into lanes, refreshed on an automated schedule. Live at [slvbr0.github.io/radar.html](https://slvbr0.github.io/radar.html).
+🛰️ **[Discovery radar](https://github.com/slvbr0/discovery-radar-feeds)** — multi-source research feed (arXiv, X, Reddit, RSS) auto-curated and published daily via GitHub Actions. Live at [slvbr0.github.io/radar.html](https://slvbr0.github.io/radar.html).
 
-🛰️ **LLM cost-routing experiments** — benchmarking whether you actually need a frontier model for most prompts, or whether a fused panel of cheap/open models gets you there for less. Result so far: a routed panel of budget models landed within ~1% of a frontier model's output quality at roughly half the inference cost. Still iterating.
+🧭 **[LLM router (mac)](https://github.com/slvbr0/llm-router-mac)** — local cost-router across LLM providers: a routed panel of budget models landed within ~1% of a frontier model at roughly half the cost in my benchmarks. Runs my daily workloads.
 
-♟️ **Poker solver (CFR-based)** — a game-theory-optimal solver experiment for heads-up play. Being cleaned up for open-sourcing — not public yet.
+🕸️ **[slvbr0.github.io](https://github.com/slvbr0/slvbr0.github.io)** — this [site](https://slvbr0.github.io): Quartz v4 fork with a custom interactive knowledge graph (touch support, live feeds, GitHub activity mirror).
 
-More of what I'm building lives at [slvbr0.github.io](https://slvbr0.github.io) (see the Projects page).
+🎙️ **[Audio-to-text](https://github.com/slvbr0/audio-to-text-hours-long)** — transcription pipeline built for hours-long recordings — chunking, diarization-friendly output, batch mode.
+
+📚 **[Knowledge distillator](https://github.com/slvbr0/knowledge-distillator)** — turns raw sources (papers, videos, notes) into distilled study material. Next stage: a socratic voice tutor on top.
+
+♟️ **[HUNL blueprint](https://github.com/slvbr0/hunl-blueprint)** — heads-up no-limit hold'em solver blueprint (CFR family). Early research.
+
+🤖 **LinkedIn AutoApply** — autonomous job-application system: scraping, CV-role matching, automated applications. Private — code on request.
+
+<sub>Some repos are flipping private → public this week; if a link 404s, it's mid-migration.</sub>
 
 ---
 
