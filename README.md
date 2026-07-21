@@ -70,20 +70,14 @@ Full experience → [slvbr0.github.io](https://slvbr0.github.io) · [LinkedIn](h
 <img src="https://img.shields.io/badge/TensorFlow-080808?style=for-the-badge&logo=tensorflow&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/PyTorch-080808?style=for-the-badge&logo=pytorch&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/scikit--learn-080808?style=for-the-badge&logo=scikit-learn&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/MLflow-080808?style=for-the-badge&logo=mlflow&logoColor=6ee7b7" />
-
-**Data & Automation**
-
 <img src="https://img.shields.io/badge/pandas%2FNumPy-080808?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Airflow-080808?style=for-the-badge&logo=airflow&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/Spark%2FDatabricks-080808?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Selenium-080808?style=for-the-badge&logo=selenium&logoColor=6ee7b7" />
 
-**Infra & Tools**
+**Infra & Automation**
 
 <img src="https://img.shields.io/badge/Docker-080808?style=for-the-badge&logo=docker&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/Git-080808?style=for-the-badge&logo=git&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/Linux-080808?style=for-the-badge&logo=linux&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/Selenium-080808?style=for-the-badge&logo=selenium&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/opencode-080808?style=for-the-badge" />
 
 **Providers**
