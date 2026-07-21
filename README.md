@@ -48,11 +48,9 @@ Full experience → [slvbr0.github.io](https://slvbr0.github.io) · [LinkedIn](h
 
 ### // interested in
 
-`LLM agents & orchestration` · `applied game theory` · `quant & markets` · `maths & physics`
-
-- Multi-model routing, cost/capability tradeoffs
-- CFR, poker solvers, decision-making under uncertainty
-- Probability, risk, positioning
+**Systems & AI** — `agents` · `automation` · `systems`
+**Games & Markets** — `quant` · `markets` · `game theory`
+**Fundamentals** — `physics` · `maths` · `complexity` · `simulation`
 
 ---
 
@@ -60,9 +58,38 @@ Full experience → [slvbr0.github.io](https://slvbr0.github.io) · [LinkedIn](h
 
 **stack**
 
-<img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=6ee7b7" />
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-080808?style=for-the-badge&logo=python&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/TypeScript-080808?style=for-the-badge&logo=typescript&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/C++-080808?style=for-the-badge&logo=cplusplus&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/SQL-080808?style=for-the-badge" />
+
+**AI/ML**
+
+<img src="https://img.shields.io/badge/TensorFlow-080808?style=for-the-badge&logo=tensorflow&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/PyTorch-080808?style=for-the-badge&logo=pytorch&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/scikit--learn-080808?style=for-the-badge&logo=scikit-learn&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/MLflow-080808?style=for-the-badge&logo=mlflow&logoColor=6ee7b7" />
+
+**Data & Automation**
+
+<img src="https://img.shields.io/badge/pandas%2FNumPy-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Airflow-080808?style=for-the-badge&logo=airflow&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/Spark%2FDatabricks-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Selenium-080808?style=for-the-badge&logo=selenium&logoColor=6ee7b7" />
+
+**Infra & Tools**
+
+<img src="https://img.shields.io/badge/Docker-080808?style=for-the-badge&logo=docker&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/Git-080808?style=for-the-badge&logo=git&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/Linux-080808?style=for-the-badge&logo=linux&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/opencode-080808?style=for-the-badge" />
+
+**Providers**
+
+<img src="https://img.shields.io/badge/Anthropic-080808?style=for-the-badge&logo=anthropic&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/OpenAI-080808?style=for-the-badge" />
 
 *Public when it works. Private when it pays.* 🚀
 
