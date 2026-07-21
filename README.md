@@ -15,6 +15,11 @@ Quant & AI systems — solvers, agents, pipelines.
 
 </div>
 
+### ⭐ Starred Repositories
+
+<!-- STARS_START -->
+<!-- STARS_END -->
+
 ---
 
 ### // projects
