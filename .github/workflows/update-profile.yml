@@ -1,0 +1,30 @@
+name: Update profile README
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-now:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rewrite // now block
+        run: python3 scripts/update_now.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No changes, skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh // now block"
+          git push

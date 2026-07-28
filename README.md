@@ -9,11 +9,23 @@ Quant & AI systems — solvers, agents, pipelines.
 
 **Build. Test. Move.**
 
+**Targeting:** ML/AI Engineer · Data Engineer · Crypto Operations — remote
+
 <a href="https://slvbr0.github.io"><img src="https://img.shields.io/badge/site-slvbr0.github.io-0a0a0a?style=for-the-badge&logoColor=6ee7b7&labelColor=080808" /></a>
 <a href="https://www.linkedin.com/in/salva-a-16461276"><img src="https://img.shields.io/badge/linkedin-salva--a-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=080808" /></a>
 <a href="https://x.com/slvbr0"><img src="https://img.shields.io/badge/x-%40slvbr0-0a0a0a?style=for-the-badge&logo=x&logoColor=f5f5f5&labelColor=080808" /></a>
 
 </div>
+
+---
+
+### // now
+
+<!-- NOW:START -->
+Currently building: LLM cost-router (local model panel benchmarking) · auto-curated multi-source research radar (live daily) · infinite-canvas note tool.
+Teaching AI/Big Data/MLOps at Generalitat Valenciana.
+_Last updated: 2026-07-28_
+<!-- NOW:END -->
 
 ---
 
@@ -86,5 +98,11 @@ Full experience → [slvbr0.github.io](https://slvbr0.github.io) · [LinkedIn](h
 <img src="https://img.shields.io/badge/OpenAI-080808?style=for-the-badge" />
 
 *Public when it works. Private when it pays.* 🚀
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=slvbr0&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="slvbr0's GitHub stats" height="165" />
 
 </div>
