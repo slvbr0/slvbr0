@@ -33,7 +33,7 @@ _Last updated: 2026-07-28_
 
 🛰️ **Discovery radar** — multi-source research feed (arXiv, X, Reddit, RSS) auto-curated and published daily via GitHub Actions. Live at [slvbr0.github.io/radar.html](https://slvbr0.github.io/radar.html).
 
-🧭 **LLM router (mac)** — local router that squeezes free and cheap models into one dependable endpoint — tiering, health checks, cost-aware fallback. Built to use models to their extent without top-tier subscriptions; honest benchmarks in the repo.
+🧭 **[LLM router (mac)](https://github.com/slvbr0/llm-router-mac-wsl2)** — local router that squeezes free and cheap models into one dependable endpoint — tiering, health checks, cost-aware fallback. Built to use models to their extent without top-tier subscriptions; honest benchmarks in the repo.
 
 🕸️ **slvbr0.github.io** — this [site](https://slvbr0.github.io): Quartz v4 fork with a custom interactive knowledge graph (touch support, live feeds, GitHub activity mirror).
 
