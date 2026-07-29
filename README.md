@@ -9,7 +9,7 @@ Quant & AI systems — solvers, agents, pipelines.
 
 **Build. Test. Move.**
 
-**Targeting:** ML/AI Engineer · Data Engineer · Crypto Operations — remote
+**Targeting:** ML/AI Engineer · Crypto Operations · Quant — remote
 
 <a href="https://slvbr0.github.io"><img src="https://img.shields.io/badge/site-slvbr0.github.io-0a0a0a?style=for-the-badge&logoColor=6ee7b7&labelColor=080808" /></a>
 <a href="https://www.linkedin.com/in/salva-a-16461276"><img src="https://img.shields.io/badge/linkedin-salva--a-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=080808" /></a>
@@ -22,9 +22,9 @@ Quant & AI systems — solvers, agents, pipelines.
 ### // now
 
 <!-- NOW:START -->
-Currently building: LLM cost-router (local model panel benchmarking) · auto-curated multi-source research radar (live daily) · infinite-canvas note tool.
+3 repos now public: LLM router, Inverse jobs, Audio-to-text · Discovery radar live (daily auto-curated feed) · building toward public project pages on the site.
 Teaching AI/Big Data/MLOps at Generalitat Valenciana.
-_Last updated: 2026-07-28_
+_Last updated: 2026-07-29_
 <!-- NOW:END -->
 
 ---
@@ -35,7 +35,7 @@ _Last updated: 2026-07-28_
 
 🧭 **[LLM router (mac)](https://github.com/slvbr0/llm-router-mac-wsl2)** — local router that squeezes free and cheap models into one dependable endpoint — tiering, health checks, cost-aware fallback. Built to use models to their extent without top-tier subscriptions; honest benchmarks in the repo.
 
-🕸️ **slvbr0.github.io** — this [site](https://slvbr0.github.io): Quartz v4 fork with a custom interactive knowledge graph (touch support, live feeds, GitHub activity mirror).
+🕸️ **[slvbr0.github.io](https://slvbr0.github.io)** — this site: Quartz v4 fork with a custom interactive knowledge graph (touch support, live feeds, GitHub activity mirror).
 
 🎙️ **[Audio-to-text](https://github.com/slvbr0/audio-to-text-hours-long)** — transcription pipeline built for hours-long recordings — chunking, diarization-friendly output, batch mode.
 
@@ -72,39 +72,35 @@ Full experience → [slvbr0.github.io](https://slvbr0.github.io) · [LinkedIn](h
 **stack**
 
 **Languages**
-
 <img src="https://img.shields.io/badge/Python-080808?style=for-the-badge&logo=python&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/C++-080808?style=for-the-badge&logo=cplusplus&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/SQL-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-080808?style=for-the-badge&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/Shell-080808?style=for-the-badge&logo=gnubash&logoColor=6ee7b7" />
 
 **AI/ML**
-
 <img src="https://img.shields.io/badge/PyTorch-080808?style=for-the-badge&logo=pytorch&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/scikit--learn-080808?style=for-the-badge&logo=scikit-learn&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/pandas%2FNumPy-080808?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sentence--Transformers-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/scikit--learn-080808?style=for-the-badge&logo=scikitlearn&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/pandas-080808?style=for-the-badge&logo=pandas&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/NumPy-080808?style=for-the-badge&logo=numpy&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/Sentence--Transformers-080808?style=for-the-badge&logoColor=6ee7b7" />
 
 **LLM Infra**
-
-<img src="https://img.shields.io/badge/LiteLLM-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LiteLLM-080808?style=for-the-badge&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/Docker-080808?style=for-the-badge&logo=docker&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/Whisper-080808?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Whisper-080808?style=for-the-badge&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/MCP-080808?style=for-the-badge&logo=modelcontextprotocol&logoColor=6ee7b7" />
 
 **Data & Automation**
-
 <img src="https://img.shields.io/badge/SQLite-080808?style=for-the-badge&logo=sqlite&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/PostgreSQL-080808?style=for-the-badge&logo=postgresql&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/Playwright-080808?style=for-the-badge&logo=playwright&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-080808?style=for-the-badge&logo=githubactions&logoColor=6ee7b7" />
 
 **Providers**
-
 <img src="https://img.shields.io/badge/Anthropic-080808?style=for-the-badge&logo=anthropic&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/OpenAI-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-080808?style=for-the-badge&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/NVIDIA-080808?style=for-the-badge&logo=nvidia&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/Mistral-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mistral-080808?style=for-the-badge&logo=mistralai&logoColor=6ee7b7" />
 
 *Public when it works. Private when it pays.* 🚀
 
