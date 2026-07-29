@@ -37,15 +37,15 @@ _Last updated: 2026-07-28_
 
 🕸️ **slvbr0.github.io** — this [site](https://slvbr0.github.io): Quartz v4 fork with a custom interactive knowledge graph (touch support, live feeds, GitHub activity mirror).
 
-🎙️ **Audio-to-text** — transcription pipeline built for hours-long recordings — chunking, diarization-friendly output, batch mode.
+🎙️ **[Audio-to-text](https://github.com/slvbr0/audio-to-text-hours-long)** — transcription pipeline built for hours-long recordings — chunking, diarization-friendly output, batch mode.
+
+📨 **[Inverse jobs](https://github.com/slvbr0/inverse-jobs)** — scrape job boards, score against your profile, daily digest of the few worth applying to by hand — the manual lane of the job pipeline.
 
 📚 **Knowledge distillator** — turns raw sources (papers, videos, notes) into distilled study material. Next stage: a socratic voice tutor on top.
 
 ♟️ **HUNL blueprint** — heads-up no-limit hold'em solver blueprint (CFR family). Early research.
 
 🤖 **LinkedIn AutoApply** — autonomous job-application system: scraping, CV-role matching, automated applications. Private — code on request.
-
-<sub>Repos going public progressively — live demos linked where available.</sub>
 
 ---
 
