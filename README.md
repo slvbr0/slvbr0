@@ -4,7 +4,7 @@
 
 ### Salva Adam
 
-Civil engineer (MSc) who moved from designing infrastructure to building AI/data systems 🛰️
+Civil engineer (MSc) who left infrastructure for trading, trading led to crypto, crypto pulled him into code, code grew into ML/AI 🛰️
 Quant & AI systems — solvers, agents, pipelines.
 
 **Build. Test. Move.**
@@ -51,8 +51,9 @@ _Last updated: 2026-07-28_
 
 ### // background
 
-`Civil engineer (MSc) → algo trading → data/AI systems. MSc Big Data. Teaching AI/Big Data/MLOps at Generalitat Valenciana.`
-`8y in crypto (personally since 2018) — ops, growth systems, trading infra.`
+`Civil engineer (MSc) → algo trading. Trading opened the door to crypto (in it since 2018).`
+`Wanting to trade on autopilot pulled him into code. Code grew into ML/AI, data science, and analysis — MSc Big Data.`
+`Now: analysis and ML/AI first, data engineering second. Teaching AI/Big Data/MLOps at Generalitat Valenciana.`
 
 Full experience → [slvbr0.github.io](https://slvbr0.github.io) · [LinkedIn](https://www.linkedin.com/in/salva-a-16461276)
 
