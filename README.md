@@ -73,29 +73,37 @@ Full experience → [slvbr0.github.io](https://slvbr0.github.io) · [LinkedIn](h
 **Languages**
 
 <img src="https://img.shields.io/badge/Python-080808?style=for-the-badge&logo=python&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/TypeScript-080808?style=for-the-badge&logo=typescript&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/C++-080808?style=for-the-badge&logo=cplusplus&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/SQL-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Shell-080808?style=for-the-badge&logo=gnubash&logoColor=6ee7b7" />
 
 **AI/ML**
 
-<img src="https://img.shields.io/badge/TensorFlow-080808?style=for-the-badge&logo=tensorflow&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/PyTorch-080808?style=for-the-badge&logo=pytorch&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/scikit--learn-080808?style=for-the-badge&logo=scikit-learn&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/pandas%2FNumPy-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sentence--Transformers-080808?style=for-the-badge" />
 
-**Infra & Automation**
+**LLM Infra**
 
+<img src="https://img.shields.io/badge/LiteLLM-080808?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-080808?style=for-the-badge&logo=docker&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/Git-080808?style=for-the-badge&logo=git&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/Linux-080808?style=for-the-badge&logo=linux&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/Selenium-080808?style=for-the-badge&logo=selenium&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/opencode-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Whisper-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-080808?style=for-the-badge" />
+
+**Data & Automation**
+
+<img src="https://img.shields.io/badge/SQLite-080808?style=for-the-badge&logo=sqlite&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/PostgreSQL-080808?style=for-the-badge&logo=postgresql&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/Playwright-080808?style=for-the-badge&logo=playwright&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-080808?style=for-the-badge&logo=githubactions&logoColor=6ee7b7" />
 
 **Providers**
 
 <img src="https://img.shields.io/badge/Anthropic-080808?style=for-the-badge&logo=anthropic&logoColor=6ee7b7" />
 <img src="https://img.shields.io/badge/OpenAI-080808?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NVIDIA-080808?style=for-the-badge&logo=nvidia&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/Mistral-080808?style=for-the-badge" />
 
 *Public when it works. Private when it pays.* 🚀
 
