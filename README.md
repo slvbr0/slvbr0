@@ -105,9 +105,3 @@ Full experience → [slvbr0.github.io](https://slvbr0.github.io) · [LinkedIn](h
 *Public when it works. Private when it pays.* 🚀
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=slvbr0&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="slvbr0's GitHub stats" height="165" />
-
-</div>
